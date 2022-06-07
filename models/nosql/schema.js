@@ -11,7 +11,7 @@ const Schema = new mongoose.Schema(
         aspersor1:{
             type:Boolean
         },
-        aspersor2:{
+        aspersor2:{ 
             type:Boolean
         }
     },
